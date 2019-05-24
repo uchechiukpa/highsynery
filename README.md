@@ -14,7 +14,7 @@ If you have any questions at any point, please reach us on email.
 
 ## Submission
 
-Please fork this repository and commit all your changes to it.
+Please **fork** this repository and commit all your changes to it.
 When you're done, send us the email with your Github repository URL.
 
 ## Overview
