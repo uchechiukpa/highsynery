@@ -1,14 +1,14 @@
-# Pycom Frontend Take-home Exercise
+# High-Tech Synergy Frontend Take-home Exercise
 
 Hi there! Here is a coding exercise to help us assess your technical skills.
-Please plan to spend no more than 4 hours on this. We understand we may not be
+Please plan to spend no more than 8 hours on this. We understand we may not be
 the only company asking for an exercise from you and want to be respectful of
 your time. We recommend you focus on the core
 requirements first, then work on any additional features if you have the time.
 
-By 4 hours in, please feel free to stop working and explain what refactors /
+By 8 hours in, please feel free to stop working and explain what refactors /
 code organization / enhancements you would have made with more time in the
-SOLUTION.md file.
+MYSOLUTION.md file.
 
 If you have any questions at any point, please reach us on email.
 
@@ -69,4 +69,4 @@ demo that looks like this:
   cross-browser compatibility.
 - You don't need to preserve any of the existing code; feel free to modify them
   as you wish.
-- New APIs and your notes should be documented in `SOLUTION.md`.
+- New APIs and your notes should be documented in `MYSOLUTION.md`.
